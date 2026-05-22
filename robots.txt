@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /*.json$
+
+Sitemap: https://surelife360.com/sitemap.xml
+Host: https://surelife360.com
