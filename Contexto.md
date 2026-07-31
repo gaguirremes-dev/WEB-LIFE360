@@ -178,7 +178,7 @@ Presentación y Captación Técnica de Programas de Seguros Generales, Seguros C
 
 ## CORREO ELECTRÓNICO OFICIAL DE CONTACTO
 
-info@life360.com
+info@surelife360.com
 
 ---
 

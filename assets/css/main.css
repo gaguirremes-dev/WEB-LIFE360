@@ -89,7 +89,7 @@ a { text-decoration: none; }
   gap: 24px;
 }
 .header-logo img {
-  height: 52px;
+  height: 168px;
   width: auto;
   object-fit: contain;
   display: block;
@@ -1374,14 +1374,14 @@ a { text-decoration: none; }
 .footer-brand {}
 .footer-logo-wrap {
   display: inline-block;
-  background: #ffffff;
   border-radius: 10px;
   padding: 10px 16px;
   margin-bottom: 20px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+  margin-top: -104px;
+  margin-left: -64px;
 }
 .footer-logo {
-  height: 44px;
+  height: 264px;
   width: auto;
   object-fit: contain;
   display: block;
@@ -1390,6 +1390,7 @@ a { text-decoration: none; }
   font-size: 0.875rem;
   color: rgba(255,255,255,0.42);
   line-height: 1.65;
+  margin-top: -64px;
   margin-bottom: 24px;
 }
 .footer-social {
@@ -1408,9 +1409,9 @@ a { text-decoration: none; }
   transition: all 0.2s;
 }
 .footer-social-link:hover {
-  background: rgba(61,123,104,0.20);
-  border-color: rgba(61,123,104,0.35);
-  color: var(--teal-300);
+  background: rgba(255,255,255,0.16);
+  border-color: rgba(255,255,255,0.45);
+  color: #ffffff;
 }
 .footer-col-title {
   font-size: 0.6875rem;
